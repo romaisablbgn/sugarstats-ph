@@ -25,39 +25,67 @@ def _():
 
 @app.cell
 def _(Path, mo, pd):
-    import sys
-
-    if sys.platform == "emscripten":
-        DATA_DIR = mo.notebook_location() / "public" / "data" / "final"
-    else:
-        DATA_DIR = Path("data/final")
+    import sys as _sys
 
     SOURCE_URL = "https://sra.gov.ph/historicalStatistics/index"
     PROJECT_URL = "https://romaisablbgn.github.io/sugarstats-ph"
 
-    monthly_supply = pd.read_csv(
-        str(DATA_DIR / "monthly_production_withdrawals_long.csv")
+    if _sys.platform == "emscripten":
+        from pyodide.http import open_url as _open_url
+
+        _data_dir = (
+            mo.notebook_location()
+            / "public"
+            / "data"
+            / "final"
+        )
+
+        def _load_csv(filename):
+            _url = str(_data_dir / filename)
+            return pd.read_csv(
+                _open_url(_url),
+                compression=None,
+            )
+
+    else:
+        _data_dir = Path("data/final")
+
+        def _load_csv(filename):
+            return pd.read_csv(
+                _data_dir / filename,
+                compression=None,
+            )
+
+    monthly_supply = _load_csv(
+        "monthly_production_withdrawals_long.csv"
     )
-    annual_supply = pd.read_csv(
-        str(DATA_DIR / "annual_production_withdrawals_summary.csv")
+
+    annual_supply = _load_csv(
+        "annual_production_withdrawals_summary.csv"
     )
-    annual_overview = pd.read_csv(
-        str(DATA_DIR / "annual_overview_supply_area_yield.csv")
+
+    annual_overview = _load_csv(
+        "annual_overview_supply_area_yield.csv"
     )
-    annual_area_yield = pd.read_csv(
-        str(DATA_DIR / "annual_raw_production_area_yield_wide.csv")
+
+    annual_area_yield = _load_csv(
+        "annual_raw_production_area_yield_wide.csv"
     )
-    annual_millsite = pd.read_csv(
-        str(DATA_DIR / "annual_millsite_prices_summary.csv")
+
+    annual_millsite = _load_csv(
+        "annual_millsite_prices_summary.csv"
     )
-    annual_metro = pd.read_csv(
-        str(DATA_DIR / "annual_metro_manila_prices_summary.csv")
+
+    annual_metro = _load_csv(
+        "annual_metro_manila_prices_summary.csv"
     )
-    millsite_prices = pd.read_csv(
-        str(DATA_DIR / "monthly_millsite_prices_analysis.csv")
+
+    millsite_prices = _load_csv(
+        "monthly_millsite_prices_analysis.csv"
     )
-    metro_prices = pd.read_csv(
-        str(DATA_DIR / "monthly_metro_manila_prices.csv")
+
+    metro_prices = _load_csv(
+        "monthly_metro_manila_prices.csv"
     )
 
     return (
