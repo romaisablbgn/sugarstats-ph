@@ -1,0 +1,13 @@
+# Local Python environment
+.venv/
+
+# marimo-generated session and cache files
+__marimo__/session/
+__marimo__/cache/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Local environment variables
+.env

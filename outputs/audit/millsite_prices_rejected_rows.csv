@@ -1,0 +1,20 @@
+source_period,source_file,crop_year,month,raw_row,reason
+2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv,2015-2016,,"AVERAGE | 887.41 | 1,566.61 | 804.24 | 1,511.44 | 6,985.43",month_not_detected
+2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv,2014-2015,,"AVERAGE | 806.54 | 1,536.05 | 7 92.86 | 1,480.07 | 6,012.57",month_not_detected
+2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv,2013-2014,,"AVERAGE | 745.81 | 1,395.27 | 772.31 | 1,280.49 | 5 ,857.57",month_not_detected
+2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv,2012-2013,,"AVERAGE | 1,234.39 | 1,419.39 | 1,128.11 | 1,346.33 | 4,381.65",month_not_detected
+2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv,2011-2012,,"AVERAGE | 1,388.48 | 1,899.77 | 1,863.98 | 5,722.46 | ",month_not_detected
+2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv,2020-2021,,"AVERAGE | 1,295.50 | 1 ,493.80 | 1 ,483.88 | 11,464.13 | ",month_not_detected
+2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv,2019-2020,,"AVERAGE | 1,206.16 | 1 ,549.06 |  | 1,534.21 | 9 ,273.66",month_not_detected
+2015-2020,data\extracted\millsite_prices\2015-2020\table_04_lattice.csv,,May,"May | 1,146.72 | 1,796.38 |  | 1,757.40 | 7,591.26",crop_year_not_detected
+2015-2020,data\extracted\millsite_prices\2015-2020\table_04_lattice.csv,,June,"June | 1,162.15 | 1,994.11 |  | 1,944.19 | 7,806.03",crop_year_not_detected
+2015-2020,data\extracted\millsite_prices\2015-2020\table_04_lattice.csv,,July,"July | 1,154.80 | 2,003.60 |  | 1,952.67 | 8,252.00",crop_year_not_detected
+2015-2020,data\extracted\millsite_prices\2015-2020\table_04_lattice.csv,,August,August | terminated milling |  |  |  | ,crop_year_not_detected
+2015-2020,data\extracted\millsite_prices\2015-2020\table_04_lattice.csv,,,"AVERAGE | 1,151.44 | 1,541.49 | 684.22 | 1,487.89 | 6,282.06",month_not_detected
+2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv,2017-2018,,"AVERAGE | 1,212.28 | 1,503.28 | 755.68 | 1,429.79 | 8,426.74",month_not_detected
+2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv,2016-2017,,"AVERAGE |  | 1,774.28 |  | 1,774.28 | 8,869.79",month_not_detected
+2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv,2025-2026,,"AVERAGE |  | 2,679.27 | 2,679.27 | 13,932.19 | ",month_not_detected
+2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv,2024-2025,,"AVERAGE |  | 2,577.87 | 2,577.87 | 15,700.38 | ",month_not_detected
+2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv,2023-2024,,"AVERAGE |  | 3,177.48 | 3,177.48 | 13,953.02 | ",month_not_detected
+2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv,2022-2023,,"AVERAGE |  | 2,041.87 | 2,041.87 | 11,472.60 | ",month_not_detected
+2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv,2021-2022,,"AVERAGE | 1,239.10 | 1,569.40 | 1,550.22 | 9,315.13 | ",month_not_detected

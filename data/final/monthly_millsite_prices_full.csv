@@ -1,0 +1,785 @@
+crop_year,crop_year_start,month,month_order,price_type,sugar_class,product_type,unit,raw_value,survey_status,price,include_in_analysis,source_period,source_file
+2010-2011,2010,September,1,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,335.00",reported,1335.0,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2010-2011,2010,September,1,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"2 ,304.49",reported,2304.49,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2010-2011,2010,September,1,Composite Price,,raw_sugar,PHP/LKg,"2,236.63",reported,2236.63,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2010-2011,2010,September,1,Molasses,,molasses,PHP/MT,"8,773.75",reported,8773.75,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2010-2011,2010,October,2,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,451.19",reported,1451.19,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2010-2011,2010,October,2,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"2 ,442.18",reported,2442.18,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2010-2011,2010,October,2,Composite Price,,raw_sugar,PHP/LKg,"2,372.81",reported,2372.81,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2010-2011,2010,October,2,Molasses,,molasses,PHP/MT,"9,059.61",reported,9059.61,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2010-2011,2010,November,3,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,514.54",reported,1514.54,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2010-2011,2010,November,3,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"2 ,478.94",reported,2478.94,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2010-2011,2010,November,3,Composite Price,,raw_sugar,PHP/LKg,"2,411.43",reported,2411.43,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2010-2011,2010,November,3,Molasses,,molasses,PHP/MT,"9,169.23",reported,9169.23,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2010-2011,2010,December,4,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,497.30",reported,1497.3,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2010-2011,2010,December,4,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"2 ,277.74",reported,2277.74,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2010-2011,2010,December,4,Composite Price,,raw_sugar,PHP/LKg,"2,223.11",reported,2223.11,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2010-2011,2010,December,4,Molasses,,molasses,PHP/MT,"7,522.23",reported,7522.23,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2011-2012,2011,September,1,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,174.38",reported,1174.38,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2011-2012,2011,September,1,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1 ,332.50",reported,1332.5,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2011-2012,2011,September,1,"""D"" World Market","""D""",raw_sugar,PHP/LKg,"1,161.25",reported,1161.25,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2011-2012,2011,September,1,Composite Price,,raw_sugar,PHP/LKg,"1,285.60",reported,1285.6,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2011-2012,2011,September,1,Molasses,,molasses,PHP/MT,"2,600.00",reported,2600.0,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2011-2012,2011,October,2,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,274.84",reported,1274.84,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2011-2012,2011,October,2,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1 ,279.83",reported,1279.83,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2011-2012,2011,October,2,"""D"" World Market","""D""",raw_sugar,PHP/LKg,"1,171.62",reported,1171.62,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2011-2012,2011,October,2,Composite Price,,raw_sugar,PHP/LKg,"1,257.79",reported,1257.79,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2011-2012,2011,October,2,Molasses,,molasses,PHP/MT,"2,746.04",reported,2746.04,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2011-2012,2011,November,3,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,330.51",reported,1330.51,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2011-2012,2011,November,3,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1 ,176.60",reported,1176.6,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2011-2012,2011,November,3,"""D"" World Market","""D""",raw_sugar,PHP/LKg,"1,119.38",reported,1119.38,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2011-2012,2011,November,3,Composite Price,,raw_sugar,PHP/LKg,"1,177.47",reported,1177.47,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2011-2012,2011,November,3,Molasses,,molasses,PHP/MT,"3,013.20",reported,3013.2,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2011-2012,2011,December,4,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,295.64",reported,1295.64,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2011-2012,2011,December,4,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1 ,245.01",reported,1245.01,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2011-2012,2011,December,4,"""D"" World Market","""D""",raw_sugar,PHP/LKg,"1,093.55",reported,1093.55,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2011-2012,2011,December,4,Composite Price,,raw_sugar,PHP/LKg,"1,218.77",reported,1218.77,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2011-2012,2011,December,4,Molasses,,molasses,PHP/MT,"3,470.54",reported,3470.54,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2011-2012,2011,January,5,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,549.75",reported,1549.75,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2011-2012,2011,January,5,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"2 ,291.09",reported,2291.09,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2011-2012,2011,January,5,Composite Price,,raw_sugar,PHP/LKg,"2,239.20",reported,2239.2,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2011-2012,2011,January,5,Molasses,,molasses,PHP/MT,"6,799.42",reported,6799.42,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2011-2012,2011,February,6,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,585.54",reported,1585.54,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2011-2012,2011,February,6,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"2 ,050.58",reported,2050.58,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2011-2012,2011,February,6,Composite Price,,raw_sugar,PHP/LKg,"2,018.03",reported,2018.03,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2011-2012,2011,February,6,Molasses,,molasses,PHP/MT,"6,552.68",reported,6552.68,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2011-2012,2011,March,7,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,558.82",reported,1558.82,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2011-2012,2011,March,7,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1 ,848.00",reported,1848.0,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2011-2012,2011,March,7,Composite Price,,raw_sugar,PHP/LKg,"1,827.76",reported,1827.76,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2011-2012,2011,March,7,Molasses,,molasses,PHP/MT,"5,411.88",reported,5411.88,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2011-2012,2011,April,8,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,501.30",reported,1501.3,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2011-2012,2011,April,8,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1 ,789.53",reported,1789.53,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2011-2012,2011,April,8,Composite Price,,raw_sugar,PHP/LKg,"1,769.35",reported,1769.35,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2011-2012,2011,April,8,Molasses,,molasses,PHP/MT,"4,527.50",reported,4527.5,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2011-2012,2011,May,9,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,256.89",reported,1256.89,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2011-2012,2011,May,9,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1 ,462.20",reported,1462.2,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2011-2012,2011,May,9,Composite Price,,raw_sugar,PHP/LKg,"1,447.83",reported,1447.83,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2011-2012,2011,May,9,Molasses,,molasses,PHP/MT,"3,022.67",reported,3022.67,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2011-2012,2011,June,10,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,164.55",reported,1164.55,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2011-2012,2011,June,10,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1 ,326.83",reported,1326.83,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2011-2012,2011,June,10,Composite Price,,raw_sugar,PHP/LKg,"1,315.47",reported,1315.47,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2011-2012,2011,June,10,Molasses,,molasses,PHP/MT,"2,818.99",reported,2818.99,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2011-2012,2011,July,11,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,124.33",reported,1124.33,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2011-2012,2011,July,11,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1 ,280.67",reported,1280.67,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2011-2012,2011,July,11,Composite Price,,raw_sugar,PHP/LKg,"1,269.73",reported,1269.73,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2011-2012,2011,July,11,Molasses,,molasses,PHP/MT,"2,406.50",reported,2406.5,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2011-2012,2011,August,12,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,122.50",reported,1122.5,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2011-2012,2011,August,12,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1 ,245.00",reported,1245.0,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2011-2012,2011,August,12,Composite Price,,raw_sugar,PHP/LKg,"1 ,236.43",reported,1236.43,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2011-2012,2011,August,12,Molasses,,molasses,PHP/MT,"2,605.00",reported,2605.0,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_05_lattice.csv
+2012-2013,2012,September,1,"""A"" Export","""A""",raw_sugar,PHP/LKg,999.85,reported,999.85,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2012-2013,2012,September,1,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1 ,538.12",reported,1538.12,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2012-2013,2012,September,1,"""D"" World Market","""D""",raw_sugar,PHP/LKg,953.43,reported,953.43,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2012-2013,2012,September,1,Composite Price,,raw_sugar,PHP/LKg,"1,437.52",reported,1437.52,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2012-2013,2012,September,1,Molasses,,molasses,PHP/MT,"5,665.38",reported,5665.38,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2012-2013,2012,October,2,"""A"" Export","""A""",raw_sugar,PHP/LKg,877.96,reported,877.96,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2012-2013,2012,October,2,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1 ,374.11",reported,1374.11,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2012-2013,2012,October,2,"""D"" World Market","""D""",raw_sugar,PHP/LKg,875.11,reported,875.11,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2012-2013,2012,October,2,Composite Price,,raw_sugar,PHP/LKg,"1,284.58",reported,1284.58,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2012-2013,2012,October,2,Molasses,,molasses,PHP/MT,"6,370.20",reported,6370.2,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2012-2013,2012,November,3,"""A"" Export","""A""",raw_sugar,PHP/LKg,779.75,reported,779.75,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2012-2013,2012,November,3,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1 ,307.02",reported,1307.02,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2012-2013,2012,November,3,"""D"" World Market","""D""",raw_sugar,PHP/LKg,788.21,reported,788.21,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2012-2013,2012,November,3,Composite Price,,raw_sugar,PHP/LKg,"1,212.79",reported,1212.79,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2012-2013,2012,November,3,Molasses,,molasses,PHP/MT,"5,380.38",reported,5380.38,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2012-2013,2012,December,4,"""A"" Export","""A""",raw_sugar,PHP/LKg,777.41,reported,777.41,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2012-2013,2012,December,4,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1 ,297.31",reported,1297.31,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2012-2013,2012,December,4,"""D"" World Market","""D""",raw_sugar,PHP/LKg,795.09,reported,795.09,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2012-2013,2012,December,4,Composite Price,,raw_sugar,PHP/LKg,"1,205.14",reported,1205.14,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2012-2013,2012,December,4,Molasses,,molasses,PHP/MT,"5,619.31",reported,5619.31,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2012-2013,2012,January,5,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,275.19",reported,1275.19,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,January,5,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1 ,273.04",reported,1273.04,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,January,5,"""D"" World Market","""D""",raw_sugar,PHP/LKg,"1,120.17",reported,1120.17,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,January,5,Composite Price,,raw_sugar,PHP/LKg,"1,242.64",reported,1242.64,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,January,5,Molasses,,molasses,PHP/MT,"3,544.53",reported,3544.53,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,February,6,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,233.24",reported,1233.24,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,February,6,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1 ,291.03",reported,1291.03,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,February,6,"""D"" World Market","""D""",raw_sugar,PHP/LKg,"1,139.38",reported,1139.38,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,February,6,Composite Price,,raw_sugar,PHP/LKg,"1,256.08",reported,1256.08,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,February,6,Molasses,,molasses,PHP/MT,"4,249.93",reported,4249.93,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,March,7,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,299.74",reported,1299.74,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,March,7,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1 ,394.06",reported,1394.06,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,March,7,"""D"" World Market","""D""",raw_sugar,PHP/LKg,"1,185.46",reported,1185.46,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,March,7,Composite Price,,raw_sugar,PHP/LKg,"1,344.79",reported,1344.79,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,March,7,Molasses,,molasses,PHP/MT,"4,558.48",reported,4558.48,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,April,8,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,281.25",reported,1281.25,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,April,8,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1 ,484.36",reported,1484.36,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,April,8,"""D"" World Market","""D""",raw_sugar,PHP/LKg,"1,163.65",reported,1163.65,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,April,8,Composite Price,,raw_sugar,PHP/LKg,"1,403.97",reported,1403.97,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,April,8,Molasses,,molasses,PHP/MT,"4,834.95",reported,4834.95,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,May,9,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,170.93",reported,1170.93,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,May,9,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1 ,509.55",reported,1509.55,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,May,9,"""D"" World Market","""D""",raw_sugar,PHP/LKg,"1,094.64",reported,1094.64,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,May,9,Composite Price,,raw_sugar,PHP/LKg,"1,399.48",reported,1399.48,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,May,9,Molasses,,molasses,PHP/MT,"5,121.59",reported,5121.59,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,June,10,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,191.95",reported,1191.95,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,June,10,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1 ,676.25",reported,1676.25,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,June,10,"""D"" World Market","""D""",raw_sugar,PHP/LKg,"1,103.24",reported,1103.24,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,June,10,Composite Price,,raw_sugar,PHP/LKg,"1,522.90",reported,1522.9,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,June,10,Molasses,,molasses,PHP/MT,"5,863.83",reported,5863.83,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,July,11,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,100.00",reported,1100.0,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,July,11,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1 ,691.67",reported,1691.67,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,July,11,"""D"" World Market","""D""",raw_sugar,PHP/LKg,"1,100.00",reported,1100.0,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,July,11,Composite Price,,raw_sugar,PHP/LKg,"1,526.00",reported,1526.0,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,July,11,Molasses,,molasses,PHP/MT,"6,321.67",reported,6321.67,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,August,12,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,185.00",reported,1185.0,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,August,12,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1 ,678.75",reported,1678.75,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,August,12,"""D"" World Market","""D""",raw_sugar,PHP/LKg,"1,085.00",reported,1085.0,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,August,12,Composite Price,,raw_sugar,PHP/LKg,"1,520.50",reported,1520.5,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2012-2013,2012,August,12,Molasses,,molasses,PHP/MT,"6,255.00",reported,6255.0,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_04_lattice.csv
+2013-2014,2013,September,1,"""A"" Export","""A""",raw_sugar,PHP/LKg,706.67,reported,706.67,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2013-2014,2013,September,1,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,462.33",reported,1462.33,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2013-2014,2013,September,1,"""D"" World Market","""D""",raw_sugar,PHP/LKg,738.92,reported,738.92,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2013-2014,2013,September,1,Composite Price,,raw_sugar,PHP/LKg,"1,360.41",reported,1360.41,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2013-2014,2013,September,1,Molasses,,molasses,PHP/MT,"5,659.77",reported,5659.77,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2013-2014,2013,October,2,"""A"" Export","""A""",raw_sugar,PHP/LKg,784.19,reported,784.19,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2013-2014,2013,October,2,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,434.30",reported,1434.3,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2013-2014,2013,October,2,"""D"" World Market","""D""",raw_sugar,PHP/LKg,829.25,reported,829.25,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2013-2014,2013,October,2,Composite Price,,raw_sugar,PHP/LKg,"1,348.69",reported,1348.69,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2013-2014,2013,October,2,Molasses,,molasses,PHP/MT,"6,040.82",reported,6040.82,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2013-2014,2013,November,3,"""A"" Export","""A""",raw_sugar,PHP/LKg,771.00,reported,771.0,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2013-2014,2013,November,3,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,465.37",reported,1465.37,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2013-2014,2013,November,3,"""D"" World Market","""D""",raw_sugar,PHP/LKg,814.58,reported,814.58,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2013-2014,2013,November,3,Composite Price,,raw_sugar,PHP/LKg,"1,373.39",reported,1373.39,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2013-2014,2013,November,3,Molasses,,molasses,PHP/MT,"6,349.94",reported,6349.94,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2013-2014,2013,December,4,"""A"" Export","""A""",raw_sugar,PHP/LKg,742.77,reported,742.77,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2013-2014,2013,December,4,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,430.07",reported,1430.07,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2013-2014,2013,December,4,"""D"" World Market","""D""",raw_sugar,PHP/LKg,777.07,reported,777.07,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2013-2014,2013,December,4,Composite Price,,raw_sugar,PHP/LKg,"1,337.96",reported,1337.96,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2013-2014,2013,December,4,Molasses,,molasses,PHP/MT,"6,084.58",reported,6084.58,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2013-2014,2013,January,5,"""A"" Export","""A""",raw_sugar,PHP/LKg,792.09,reported,792.09,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,January,5,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1 ,336.53",reported,1336.53,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,January,5,"""D"" World Market","""D""",raw_sugar,PHP/LKg,773.91,reported,773.91,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,January,5,Composite Price,,raw_sugar,PHP/LKg,"1,237.08",reported,1237.08,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,January,5,Molasses,,molasses,PHP/MT,"5,846.00",reported,5846.0,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,February,6,"""A"" Export","""A""",raw_sugar,PHP/LKg,751.00,reported,751.0,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,February,6,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1 ,363.50",reported,1363.5,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,February,6,"""D"" World Market","""D""",raw_sugar,PHP/LKg,778.25,reported,778.25,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,February,6,Composite Price,,raw_sugar,PHP/LKg,"1,255.43",reported,1255.43,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,February,6,Molasses,,molasses,PHP/MT,"5,552.00",reported,5552.0,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,March,7,"""A"" Export","""A""",raw_sugar,PHP/LKg,712.40,reported,712.4,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,March,7,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1 ,378.40",reported,1378.4,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,March,7,"""D"" World Market","""D""",raw_sugar,PHP/LKg,778.80,reported,778.8,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,March,7,Composite Price,,raw_sugar,PHP/LKg,"1,263.83",reported,1263.83,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,March,7,Molasses,,molasses,PHP/MT,"5,586.40",reported,5586.4,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,April,8,"""A"" Export","""A""",raw_sugar,PHP/LKg,676.25,reported,676.25,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,April,8,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1 ,436.25",reported,1436.25,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,April,8,"""D"" World Market","""D""",raw_sugar,PHP/LKg,748.75,reported,748.75,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,April,8,Composite Price,,raw_sugar,PHP/LKg,"1,305.25",reported,1305.25,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,April,8,Molasses,,molasses,PHP/MT,"5,982.25",reported,5982.25,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,May,9,"""A"" Export","""A""",raw_sugar,PHP/LKg,643.07,reported,643.07,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,May,9,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1 ,435.09",reported,1435.09,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,May,9,"""D"" World Market","""D""",raw_sugar,PHP/LKg,714.95,reported,714.95,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,May,9,Composite Price,,raw_sugar,PHP/LKg,"1,298.28",reported,1298.28,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,May,9,Molasses,,molasses,PHP/MT,"5,620.21",reported,5620.21,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,June,10,"""A"" Export","""A""",raw_sugar,PHP/LKg,647.00,reported,647.0,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,June,10,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1 ,438.20",reported,1438.2,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,June,10,"""D"" World Market","""D""",raw_sugar,PHP/LKg,727.00,reported,727.0,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,June,10,Composite Price,,raw_sugar,PHP/LKg,"1,302.18",reported,1302.18,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,June,10,Molasses,,molasses,PHP/MT,"6,625.00",reported,6625.0,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,July,11,"""A"" Export","""A""",raw_sugar,PHP/LKg,636.25,reported,636.25,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,July,11,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1 ,422.50",reported,1422.5,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,July,11,"""D"" World Market","""D""",raw_sugar,PHP/LKg,687.50,reported,687.5,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,July,11,Composite Price,,raw_sugar,PHP/LKg,"1,285.08",reported,1285.08,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,July,11,Molasses,,molasses,PHP/MT,"6,125.00",reported,6125.0,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,August,12,"""A"" Export","""A""",raw_sugar,PHP/LKg,656.67,reported,656.67,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,August,12,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1 ,416.25",reported,1416.25,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,August,12,"""D"" World Market","""D""",raw_sugar,PHP/LKg,646.67,reported,646.67,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,August,12,Composite Price,,raw_sugar,PHP/LKg,"1,278.73",reported,1278.73,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2013-2014,2013,August,12,Molasses,,molasses,PHP/MT,"5,918.75",reported,5918.75,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_03_lattice.csv
+2014-2015,2014,September,1,"""A"" Export","""A""",raw_sugar,PHP/LKg,956.37,reported,956.37,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2014-2015,2014,September,1,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,517.83",reported,1517.83,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2014-2015,2014,September,1,"""D"" World Market","""D""",raw_sugar,PHP/LKg,740.27,reported,740.27,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2014-2015,2014,September,1,Composite Price,,raw_sugar,PHP/LKg,"1,450.88",reported,1450.88,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2014-2015,2014,September,1,Molasses,,molasses,PHP/MT,"6,498.97",reported,6498.97,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2014-2015,2014,October,2,"""A"" Export","""A""",raw_sugar,PHP/LKg,995.04,reported,995.04,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2014-2015,2014,October,2,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,519.58",reported,1519.58,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2014-2015,2014,October,2,"""D"" World Market","""D""",raw_sugar,PHP/LKg,865.67,reported,865.67,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2014-2015,2014,October,2,Composite Price,,raw_sugar,PHP/LKg,"1,460.66",reported,1460.66,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2014-2015,2014,October,2,Molasses,,molasses,PHP/MT,"6,620.94",reported,6620.94,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2014-2015,2014,November,3,"""A"" Export","""A""",raw_sugar,PHP/LKg,915.27,reported,915.27,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2014-2015,2014,November,3,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,458.78",reported,1458.78,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2014-2015,2014,November,3,"""D"" World Market","""D""",raw_sugar,PHP/LKg,855.85,reported,855.85,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2014-2015,2014,November,3,Composite Price,,raw_sugar,PHP/LKg,"1,401.46",reported,1401.46,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2014-2015,2014,November,3,Molasses,,molasses,PHP/MT,"6,454.62",reported,6454.62,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2014-2015,2014,December,4,"""A"" Export","""A""",raw_sugar,PHP/LKg,852.03,reported,852.03,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2014-2015,2014,December,4,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,481.15",reported,1481.15,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2014-2015,2014,December,4,"""D"" World Market","""D""",raw_sugar,PHP/LKg,755.79,reported,755.79,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2014-2015,2014,December,4,Composite Price,,raw_sugar,PHP/LKg,"1,413.43",reported,1413.43,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2014-2015,2014,December,4,Molasses,,molasses,PHP/MT,"6,483.07",reported,6483.07,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2014-2015,2014,January,5,"""A"" Export","""A""",raw_sugar,PHP/LKg,752.19,reported,752.19,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,January,5,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,411.15",reported,1411.15,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,January,5,"""D"" World Market","""D""",raw_sugar,PHP/LKg,747.38,reported,747.38,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,January,5,Composite Price,,raw_sugar,PHP/LKg,"1,318.32",reported,1318.32,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,January,5,Molasses,,molasses,PHP/MT,"6,102.01",reported,6102.01,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,February,6,"""A"" Export","""A""",raw_sugar,PHP/LKg,792.28,reported,792.28,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,February,6,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,456.66",reported,1456.66,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,February,6,"""D"" World Market","""D""",raw_sugar,PHP/LKg,783.43,reported,783.43,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,February,6,Composite Price,,raw_sugar,PHP/LKg,"1,383.31",reported,1383.31,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,February,6,Molasses,,molasses,PHP/MT,"5,996.65",reported,5996.65,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,March,7,"""A"" Export","""A""",raw_sugar,PHP/LKg,810.68,reported,810.68,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,March,7,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,519.81",reported,1519.81,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,March,7,"""D"" World Market","""D""",raw_sugar,PHP/LKg,814.16,reported,814.16,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,March,7,Composite Price,,raw_sugar,PHP/LKg,"1,480.64",reported,1480.64,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,March,7,Molasses,,molasses,PHP/MT,"5,805.82",reported,5805.82,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,April,8,"""A"" Export","""A""",raw_sugar,PHP/LKg,855.58,reported,855.58,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,April,8,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,646.14",reported,1646.14,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,April,8,"""D"" World Market","""D""",raw_sugar,PHP/LKg,838.08,reported,838.08,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,April,8,Composite Price,,raw_sugar,PHP/LKg,"1,614.17",reported,1614.17,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,April,8,Molasses,,molasses,PHP/MT,"6,038.04",reported,6038.04,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,May,9,"""A"" Export","""A""",raw_sugar,PHP/LKg,906.48,reported,906.48,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,May,9,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,710.43",reported,1710.43,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,May,9,"""D"" World Market","""D""",raw_sugar,PHP/LKg,,missing,,False,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,May,9,Composite Price,,raw_sugar,PHP/LKg,"1,694.35",reported,1694.35,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,May,9,Molasses,,molasses,PHP/MT,"5,860.58",reported,5860.58,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,June,10,"""A"" Export","""A""",raw_sugar,PHP/LKg,951.60,reported,951.6,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,June,10,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,652.59",reported,1652.59,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,June,10,"""D"" World Market","""D""",raw_sugar,PHP/LKg,,missing,,False,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,June,10,Composite Price,,raw_sugar,PHP/LKg,"1,638.57",reported,1638.57,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,June,10,Molasses,,molasses,PHP/MT,"6,187.50",reported,6187.5,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,July,11,"""A"" Export","""A""",raw_sugar,PHP/LKg,700.00,reported,700.0,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,July,11,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,622.52",reported,1622.52,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,July,11,"""D"" World Market","""D""",raw_sugar,PHP/LKg,,missing,,False,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,July,11,Composite Price,,raw_sugar,PHP/LKg,"1,604.07",reported,1604.07,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,July,11,Molasses,,molasses,PHP/MT,,missing,,False,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,August,12,"""A"" Export","""A""",raw_sugar,PHP/LKg,905.00,reported,905.0,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,August,12,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1 ,621.25",reported,1621.25,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,August,12,"""D"" World Market","""D""",raw_sugar,PHP/LKg,,missing,,False,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,August,12,Composite Price,,raw_sugar,PHP/LKg,"1,606.93",reported,1606.93,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2014-2015,2014,August,12,Molasses,,molasses,PHP/MT,,missing,,False,2010-2015,data\extracted\millsite_prices\2010-2015\table_02_lattice.csv
+2015-2016,2015,September,1,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2015-2016,2015,September,1,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,662.83",reported,1662.83,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2015-2016,2015,September,1,Composite Price,,raw_sugar,PHP/LKg,"1,662.83",reported,1662.83,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2015-2016,2015,September,1,Molasses,,molasses,PHP/MT,"8,483.76",reported,8483.76,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2015-2016,2015,October,2,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2015-2016,2015,October,2,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,706.34",reported,1706.34,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2015-2016,2015,October,2,Composite Price,,raw_sugar,PHP/LKg,"1,706.34",reported,1706.34,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2015-2016,2015,October,2,Molasses,,molasses,PHP/MT,"9,631.31",reported,9631.31,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2015-2016,2015,November,3,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2015-2016,2015,November,3,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,766.37",reported,1766.37,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2015-2016,2015,November,3,Composite Price,,raw_sugar,PHP/LKg,"1,766.37",reported,1766.37,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2015-2016,2015,November,3,Molasses,,molasses,PHP/MT,"9,120.32",reported,9120.32,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2015-2016,2015,December,4,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2015-2016,2015,December,4,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,820.75",reported,1820.75,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2015-2016,2015,December,4,Composite Price,,raw_sugar,PHP/LKg,"1,820.75",reported,1820.75,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2015-2016,2015,December,4,Molasses,,molasses,PHP/MT,"8,232.46",reported,8232.46,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2015-2016,2015,January,5,"""A"" Export","""A""",raw_sugar,PHP/LKg,875.13,reported,875.13,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,January,5,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,486.97",reported,1486.97,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,January,5,"""D"" World Market","""D""",raw_sugar,PHP/LKg,773.30,reported,773.3,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,January,5,Composite Price,,raw_sugar,PHP/LKg,"1,389.09",reported,1389.09,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,January,5,Molasses,,molasses,PHP/MT,"7,274.91",reported,7274.91,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,February,6,"""A"" Export","""A""",raw_sugar,PHP/LKg,850.24,reported,850.24,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,February,6,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,525.34",reported,1525.34,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,February,6,"""D"" World Market","""D""",raw_sugar,PHP/LKg,808.06,reported,808.06,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,February,6,Composite Price,,raw_sugar,PHP/LKg,"1,455.72",reported,1455.72,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,February,6,Molasses,,molasses,PHP/MT,"8,019.31",reported,8019.31,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,March,7,"""A"" Export","""A""",raw_sugar,PHP/LKg,830.05,reported,830.05,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,March,7,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,584.63",reported,1584.63,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,March,7,"""D"" World Market","""D""",raw_sugar,PHP/LKg,830.75,reported,830.75,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,March,7,Composite Price,,raw_sugar,PHP/LKg,"1,527.69",reported,1527.69,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,March,7,Molasses,,molasses,PHP/MT,"7,468.89",reported,7468.89,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,April,8,"""A"" Export","""A""",raw_sugar,PHP/LKg,823.75,reported,823.75,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,April,8,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,691.63",reported,1691.63,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,April,8,"""D"" World Market","""D""",raw_sugar,PHP/LKg,,missing,,False,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,April,8,Composite Price,,raw_sugar,PHP/LKg,"1,648.24",reported,1648.24,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,April,8,Molasses,,molasses,PHP/MT,"7,263.07",reported,7263.07,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,May,9,"""A"" Export","""A""",raw_sugar,PHP/LKg,888.78,reported,888.78,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,May,9,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,710.21",reported,1710.21,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,May,9,"""D"" World Market","""D""",raw_sugar,PHP/LKg,,missing,,False,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,May,9,Composite Price,,raw_sugar,PHP/LKg,"1,677.25",reported,1677.25,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,May,9,Molasses,,molasses,PHP/MT,"7,189.72",reported,7189.72,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,June,10,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,June,10,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,690.00",reported,1690.0,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,June,10,"""D"" World Market","""D""",raw_sugar,PHP/LKg,,missing,,False,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,June,10,Composite Price,,raw_sugar,PHP/LKg,"1,690.00",reported,1690.0,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,June,10,Molasses,,molasses,PHP/MT,"6,580.83",reported,6580.83,True,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,July,11,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,July,11,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,,missing,,False,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,July,11,"""D"" World Market","""D""",raw_sugar,PHP/LKg,,missing,,False,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,July,11,Composite Price,,raw_sugar,PHP/LKg,,missing,,False,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,July,11,Molasses,,molasses,PHP/MT,,missing,,False,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,August,12,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,August,12,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,,missing,,False,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,August,12,"""D"" World Market","""D""",raw_sugar,PHP/LKg,,missing,,False,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,August,12,Composite Price,,raw_sugar,PHP/LKg,,missing,,False,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2015-2016,2015,August,12,Molasses,,molasses,PHP/MT,,missing,,False,2010-2015,data\extracted\millsite_prices\2010-2015\table_01_lattice.csv
+2016-2017,2016,September,1,"""A"" Export","""A""",raw_sugar,PHP/LKg,976.33,reported,976.33,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2016-2017,2016,September,1,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,784.92",reported,1784.92,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2016-2017,2016,September,1,"""D"" World Market","""D""",raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2016-2017,2016,September,1,Composite Price,,raw_sugar,PHP/LKg,"1,720.23",reported,1720.23,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2016-2017,2016,September,1,Molasses,,molasses,PHP/MT,"9,900.00",reported,9900.0,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2016-2017,2016,October,2,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,082.64",reported,1082.64,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2016-2017,2016,October,2,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,652.85",reported,1652.85,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2016-2017,2016,October,2,"""D"" World Market","""D""",raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2016-2017,2016,October,2,Composite Price,,raw_sugar,PHP/LKg,"1,607.23",reported,1607.23,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2016-2017,2016,October,2,Molasses,,molasses,PHP/MT,"10,153.30",reported,10153.3,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2016-2017,2016,November,3,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,240.42",reported,1240.42,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2016-2017,2016,November,3,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,680.18",reported,1680.18,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2016-2017,2016,November,3,"""D"" World Market","""D""",raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2016-2017,2016,November,3,Composite Price,,raw_sugar,PHP/LKg,"1,644.99",reported,1644.99,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2016-2017,2016,November,3,Molasses,,molasses,PHP/MT,"10,189.27",reported,10189.27,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2016-2017,2016,December,4,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,253.24",reported,1253.24,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2016-2017,2016,December,4,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,546.48",reported,1546.48,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2016-2017,2016,December,4,"""D"" World Market","""D""",raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2016-2017,2016,December,4,Composite Price,,raw_sugar,PHP/LKg,"1,523.02",reported,1523.02,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2016-2017,2016,December,4,Molasses,,molasses,PHP/MT,"9,427.78",reported,9427.78,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2016-2017,2016,January,5,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2016-2017,2016,January,5,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,846.45",reported,1846.45,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2016-2017,2016,January,5,Composite Price,,raw_sugar,PHP/LKg,"1,846.45",reported,1846.45,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2016-2017,2016,January,5,Molasses,,molasses,PHP/MT,"8,796.17",reported,8796.17,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2016-2017,2016,February,6,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2016-2017,2016,February,6,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,827.63",reported,1827.63,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2016-2017,2016,February,6,Composite Price,,raw_sugar,PHP/LKg,"1,827.63",reported,1827.63,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2016-2017,2016,February,6,Molasses,,molasses,PHP/MT,"9,165.90",reported,9165.9,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2016-2017,2016,March,7,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2016-2017,2016,March,7,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,844.70",reported,1844.7,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2016-2017,2016,March,7,Composite Price,,raw_sugar,PHP/LKg,"1,844.70",reported,1844.7,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2016-2017,2016,March,7,Molasses,,molasses,PHP/MT,"8,931.73",reported,8931.73,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2016-2017,2016,April,8,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2016-2017,2016,April,8,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,849.46",reported,1849.46,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2016-2017,2016,April,8,Composite Price,,raw_sugar,PHP/LKg,"1,849.46",reported,1849.46,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2016-2017,2016,April,8,Molasses,,molasses,PHP/MT,"9,163.99",reported,9163.99,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2016-2017,2016,May,9,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2016-2017,2016,May,9,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,799.29",reported,1799.29,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2016-2017,2016,May,9,Composite Price,,raw_sugar,PHP/LKg,"1,799.29",reported,1799.29,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2016-2017,2016,May,9,Molasses,,molasses,PHP/MT,"9,020.30",reported,9020.3,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2016-2017,2016,June,10,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2016-2017,2016,June,10,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,717.50",reported,1717.5,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2016-2017,2016,June,10,Composite Price,,raw_sugar,PHP/LKg,"1,717.50",reported,1717.5,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2016-2017,2016,June,10,Molasses,,molasses,PHP/MT,"9,131.52",reported,9131.52,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2016-2017,2016,July,11,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2016-2017,2016,July,11,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,645.00",reported,1645.0,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2016-2017,2016,July,11,Composite Price,,raw_sugar,PHP/LKg,"1,645.00",reported,1645.0,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2016-2017,2016,July,11,Molasses,,molasses,PHP/MT,"7,585.00",reported,7585.0,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2016-2017,2016,August,12,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2016-2017,2016,August,12,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,805.00",reported,1805.0,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2016-2017,2016,August,12,Composite Price,,raw_sugar,PHP/LKg,"1,805.00",reported,1805.0,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2016-2017,2016,August,12,Molasses,,molasses,PHP/MT,"9,175.00",reported,9175.0,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_06_lattice.csv
+2017-2018,2017,September,1,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,140.44",reported,1140.44,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2017-2018,2017,September,1,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,359.06",reported,1359.06,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2017-2018,2017,September,1,"""D"" World Market","""D""",raw_sugar,PHP/LKg,702.11,reported,702.11,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2017-2018,2017,September,1,Composite Price,,raw_sugar,PHP/LKg,"1,271.50",reported,1271.5,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2017-2018,2017,September,1,Molasses,,molasses,PHP/MT,"6,761.67",reported,6761.67,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2017-2018,2017,October,2,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,171.90",reported,1171.9,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2017-2018,2017,October,2,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,329.94",reported,1329.94,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2017-2018,2017,October,2,"""D"" World Market","""D""",raw_sugar,PHP/LKg,709.77,reported,709.77,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2017-2018,2017,October,2,Composite Price,,raw_sugar,PHP/LKg,"1,252.12",reported,1252.12,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2017-2018,2017,October,2,Molasses,,molasses,PHP/MT,"6,280.83",reported,6280.83,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2017-2018,2017,November,3,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,169.94",reported,1169.94,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2017-2018,2017,November,3,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,224.95",reported,1224.95,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2017-2018,2017,November,3,"""D"" World Market","""D""",raw_sugar,PHP/LKg,758.04,reported,758.04,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2017-2018,2017,November,3,Composite Price,,raw_sugar,PHP/LKg,"1,172.76",reported,1172.76,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2017-2018,2017,November,3,Molasses,,molasses,PHP/MT,"4,109.35",reported,4109.35,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2017-2018,2017,December,4,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,179.51",reported,1179.51,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2017-2018,2017,December,4,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,301.31",reported,1301.31,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2017-2018,2017,December,4,"""D"" World Market","""D""",raw_sugar,PHP/LKg,760.85,reported,760.85,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2017-2018,2017,December,4,Composite Price,,raw_sugar,PHP/LKg,"1,235.09",reported,1235.09,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2017-2018,2017,December,4,Molasses,,molasses,PHP/MT,"4,373.50",reported,4373.5,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2017-2018,2017,January,5,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,258.40",reported,1258.4,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,January,5,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,538.26",reported,1538.26,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,January,5,"""D"" World Market","""D""",raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,January,5,Composite Price,,raw_sugar,PHP/LKg,"1,517.13",reported,1517.13,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,January,5,Molasses,,molasses,PHP/MT,"9,078.78",reported,9078.78,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,February,6,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,318.97",reported,1318.97,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,February,6,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,470.36",reported,1470.36,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,February,6,"""D"" World Market","""D""",raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,February,6,Composite Price,,raw_sugar,PHP/LKg,"1,461.27",reported,1461.27,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,February,6,Molasses,,molasses,PHP/MT,"8,657.96",reported,8657.96,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,March,7,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,334.37",reported,1334.37,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,March,7,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,382.37",reported,1382.37,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,March,7,"""D"" World Market","""D""",raw_sugar,PHP/LKg,872.78,reported,872.78,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,March,7,Composite Price,,raw_sugar,PHP/LKg,"1,325.06",reported,1325.06,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,March,7,Molasses,,molasses,PHP/MT,"7,606.93",reported,7606.93,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,April,8,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,288.16",reported,1288.16,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,April,8,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,384.78",reported,1384.78,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,April,8,"""D"" World Market","""D""",raw_sugar,PHP/LKg,854.14,reported,854.14,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,April,8,Composite Price,,raw_sugar,PHP/LKg,"1,272.85",reported,1272.85,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,April,8,Molasses,,molasses,PHP/MT,"6,562.26",reported,6562.26,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,May,9,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,230.98",reported,1230.98,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,May,9,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,384.78",reported,1384.78,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,May,9,"""D"" World Market","""D""",raw_sugar,PHP/LKg,754.76,reported,754.76,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,May,9,Composite Price,,raw_sugar,PHP/LKg,"1,249.28",reported,1249.28,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,May,9,Molasses,,molasses,PHP/MT,"5,890.62",reported,5890.62,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,June,10,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,194.50",reported,1194.5,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,June,10,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,387.20",reported,1387.2,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,June,10,"""D"" World Market","""D""",raw_sugar,PHP/LKg,660.09,reported,660.09,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,June,10,Composite Price,,raw_sugar,PHP/LKg,"1,230.22",reported,1230.22,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,June,10,Molasses,,molasses,PHP/MT,"6,951.62",reported,6951.62,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,July,11,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,157.11",reported,1157.11,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,July,11,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,323.92",reported,1323.92,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,July,11,"""D"" World Market","""D""",raw_sugar,PHP/LKg,636.61,reported,636.61,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,July,11,Composite Price,,raw_sugar,PHP/LKg,"1,176.45",reported,1176.45,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,July,11,Molasses,,molasses,PHP/MT,"8,275.57",reported,8275.57,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,August,12,"""A"" Export","""A""",raw_sugar,PHP/LKg,terminated,terminated,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,August,12,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,August,12,"""D"" World Market","""D""",raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,August,12,Composite Price,,raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2017-2018,2017,August,12,Molasses,,molasses,PHP/MT,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_05_lattice.csv
+2018-2019,2018,September,1,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,171.17",reported,1171.17,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2018-2019,2018,September,1,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,696.82",reported,1696.82,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2018-2019,2018,September,1,"""D"" World Market","""D""",raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2018-2019,2018,September,1,Composite Price,,raw_sugar,PHP/LKg,"1,693.53",reported,1693.53,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2018-2019,2018,September,1,Molasses,,molasses,PHP/MT,"8,020.00",reported,8020.0,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2018-2019,2018,October,2,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,173.19",reported,1173.19,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2018-2019,2018,October,2,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,628.55",reported,1628.55,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2018-2019,2018,October,2,"""D"" World Market","""D""",raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2018-2019,2018,October,2,Composite Price,,raw_sugar,PHP/LKg,"1,605.78",reported,1605.78,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2018-2019,2018,October,2,Molasses,,molasses,PHP/MT,"8,057.80",reported,8057.8,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2018-2019,2018,November,3,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,182.64",reported,1182.64,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2018-2019,2018,November,3,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,541.68",reported,1541.68,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2018-2019,2018,November,3,"""D"" World Market","""D""",raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2018-2019,2018,November,3,Composite Price,,raw_sugar,PHP/LKg,"1,523.73",reported,1523.73,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2018-2019,2018,November,3,Molasses,,molasses,PHP/MT,"8,028.60",reported,8028.6,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2018-2019,2018,December,4,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,263.90",reported,1263.9,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2018-2019,2018,December,4,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,563.12",reported,1563.12,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2018-2019,2018,December,4,"""D"" World Market","""D""",raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2018-2019,2018,December,4,Composite Price,,raw_sugar,PHP/LKg,"1,548.16",reported,1548.16,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2018-2019,2018,December,4,Molasses,,molasses,PHP/MT,"7,879.34",reported,7879.34,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2018-2019,2018,January,5,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,153.23",reported,1153.23,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2018-2019,2018,January,5,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,390.76",reported,1390.76,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2018-2019,2018,January,5,"""D"" World Market","""D""",raw_sugar,PHP/LKg,663.56,reported,663.56,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2018-2019,2018,January,5,Composite Price,,raw_sugar,PHP/LKg,"1,313.45",reported,1313.45,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2018-2019,2018,January,5,Molasses,,molasses,PHP/MT,"4,651.46",reported,4651.46,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2018-2019,2018,February,6,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,139.23",reported,1139.23,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2018-2019,2018,February,6,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,386.26",reported,1386.26,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2018-2019,2018,February,6,"""D"" World Market","""D""",raw_sugar,PHP/LKg,635.62,reported,635.62,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2018-2019,2018,February,6,Composite Price,,raw_sugar,PHP/LKg,"1,363.93",reported,1363.93,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2018-2019,2018,February,6,Molasses,,molasses,PHP/MT,"5,438.75",reported,5438.75,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2018-2019,2018,March,7,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,112.54",reported,1112.54,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2018-2019,2018,March,7,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,518.33",reported,1518.33,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2018-2019,2018,March,7,"""D"" World Market","""D""",raw_sugar,PHP/LKg,619.53,reported,619.53,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2018-2019,2018,March,7,Composite Price,,raw_sugar,PHP/LKg,"1,484.99",reported,1484.99,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2018-2019,2018,March,7,Molasses,,molasses,PHP/MT,"6,607.73",reported,6607.73,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2018-2019,2018,April,8,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,135.38",reported,1135.38,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2018-2019,2018,April,8,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,651.65",reported,1651.65,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2018-2019,2018,April,8,"""D"" World Market","""D""",raw_sugar,PHP/LKg,624.31,reported,624.31,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2018-2019,2018,April,8,Composite Price,,raw_sugar,PHP/LKg,"1,618.71",reported,1618.71,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2018-2019,2018,April,8,Molasses,,molasses,PHP/MT,"7,230.10",reported,7230.1,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_03_lattice.csv
+2019-2020,2019,September,1,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,097.37",reported,1097.37,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2019-2020,2019,September,1,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,519.10",reported,1519.1,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2019-2020,2019,September,1,Composite Price,,raw_sugar,PHP/LKg,"1,498.01",reported,1498.01,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2019-2020,2019,September,1,Molasses,,molasses,PHP/MT,"10,714.73",reported,10714.73,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2019-2020,2019,October,2,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,118.81",reported,1118.81,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2019-2020,2019,October,2,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,481.65",reported,1481.65,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2019-2020,2019,October,2,Composite Price,,raw_sugar,PHP/LKg,"1,463.51",reported,1463.51,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2019-2020,2019,October,2,Molasses,,molasses,PHP/MT,"11,948.09",reported,11948.09,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2019-2020,2019,November,3,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,191.42",reported,1191.42,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2019-2020,2019,November,3,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,515.42",reported,1515.42,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2019-2020,2019,November,3,Composite Price,,raw_sugar,PHP/LKg,"1,499.22",reported,1499.22,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2019-2020,2019,November,3,Molasses,,molasses,PHP/MT,"12,570.14",reported,12570.14,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2019-2020,2019,December,4,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,182.03",reported,1182.03,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2019-2020,2019,December,4,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,509.23",reported,1509.23,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2019-2020,2019,December,4,Composite Price,,raw_sugar,PHP/LKg,"1,492.87",reported,1492.87,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2019-2020,2019,December,4,Molasses,,molasses,PHP/MT,"11,319.70",reported,11319.7,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2019-2020,2019,January,5,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,273.41",reported,1273.41,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,January,5,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,521.65",reported,1521.65,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,January,5,"""D"" World Market","""D""",raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,January,5,Composite Price,,raw_sugar,PHP/LKg,"1,509.24",reported,1509.24,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,January,5,Molasses,,molasses,PHP/MT,"8,466.97",reported,8466.97,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,February,6,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,263.15",reported,1263.15,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,February,6,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,534.18",reported,1534.18,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,February,6,"""D"" World Market","""D""",raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,February,6,Composite Price,,raw_sugar,PHP/LKg,"1,520.63",reported,1520.63,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,February,6,Molasses,,molasses,PHP/MT,"9,549.68",reported,9549.68,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,March,7,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,174.34",reported,1174.34,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,March,7,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,474.37",reported,1474.37,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,March,7,"""D"" World Market","""D""",raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,March,7,Composite Price,,raw_sugar,PHP/LKg,"1,459.37",reported,1459.37,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,March,7,Molasses,,molasses,PHP/MT,"10,331.20",reported,10331.2,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,April,8,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,177.79",reported,1177.79,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,April,8,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,504.35",reported,1504.35,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,April,8,"""D"" World Market","""D""",raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,April,8,Composite Price,,raw_sugar,PHP/LKg,"1,488.02",reported,1488.02,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,April,8,Molasses,,molasses,PHP/MT,"10,580.73",reported,10580.73,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,May,9,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,194.05",reported,1194.05,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,May,9,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,507.16",reported,1507.16,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,May,9,"""D"" World Market","""D""",raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,May,9,Composite Price,,raw_sugar,PHP/LKg,"1,491.50",reported,1491.5,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,May,9,Molasses,,molasses,PHP/MT,"10,897.32",reported,10897.32,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,June,10,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,188.00",reported,1188.0,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,June,10,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,518.67",reported,1518.67,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,June,10,"""D"" World Market","""D""",raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,June,10,Composite Price,,raw_sugar,PHP/LKg,"1,502.14",reported,1502.14,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,June,10,Molasses,,molasses,PHP/MT,"10,925.00",reported,10925.0,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,July,11,"""A"" Export","""A""",raw_sugar,PHP/LKg,terminated,terminated,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,July,11,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,July,11,"""D"" World Market","""D""",raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,July,11,Composite Price,,raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,July,11,Molasses,,molasses,PHP/MT,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,August,12,"""A"" Export","""A""",raw_sugar,PHP/LKg,terminated,terminated,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,August,12,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,August,12,"""D"" World Market","""D""",raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,August,12,Composite Price,,raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2019-2020,2019,August,12,Molasses,,molasses,PHP/MT,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_02_lattice.csv
+2020-2021,2020,September,1,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,114.03",reported,1114.03,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2020-2021,2020,September,1,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,521.20",reported,1521.2,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2020-2021,2020,September,1,Composite Price,,raw_sugar,PHP/LKg,"1,492.70",reported,1492.7,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2020-2021,2020,September,1,Molasses,,molasses,PHP/MT,"10,625.00",reported,10625.0,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2020-2021,2020,October,2,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,192.76",reported,1192.76,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2020-2021,2020,October,2,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,469.80",reported,1469.8,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2020-2021,2020,October,2,Composite Price,,raw_sugar,PHP/LKg,"1,450.41",reported,1450.41,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2020-2021,2020,October,2,Molasses,,molasses,PHP/MT,"9,954.20",reported,9954.2,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2020-2021,2020,November,3,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,266.74",reported,1266.74,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2020-2021,2020,November,3,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,524.73",reported,1524.73,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2020-2021,2020,November,3,Composite Price,,raw_sugar,PHP/LKg,"1,506.67",reported,1506.67,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2020-2021,2020,November,3,Molasses,,molasses,PHP/MT,"9,038.87",reported,9038.87,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2020-2021,2020,December,4,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,283.97",reported,1283.97,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2020-2021,2020,December,4,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,509.18",reported,1509.18,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2020-2021,2020,December,4,Composite Price,,raw_sugar,PHP/LKg,"1,493.42",reported,1493.42,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2020-2021,2020,December,4,Molasses,,molasses,PHP/MT,"8,705.52",reported,8705.52,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2020-2021,2020,January,5,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,450.01",reported,1450.01,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2020-2021,2020,January,5,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,513.66",reported,1513.66,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2020-2021,2020,January,5,Composite Price,,raw_sugar,PHP/LKg,"1,510.48",reported,1510.48,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2020-2021,2020,January,5,Molasses,,molasses,PHP/MT,"10,889.04",reported,10889.04,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2020-2021,2020,February,6,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,495.24",reported,1495.24,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2020-2021,2020,February,6,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,537.18",reported,1537.18,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2020-2021,2020,February,6,Composite Price,,raw_sugar,PHP/LKg,"1,535.09",reported,1535.09,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2020-2021,2020,February,6,Molasses,,molasses,PHP/MT,"11,418.02",reported,11418.02,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2020-2021,2020,March,7,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,484.87",reported,1484.87,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2020-2021,2020,March,7,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,472.71",reported,1472.71,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2020-2021,2020,March,7,Composite Price,,raw_sugar,PHP/LKg,"1,473.32",reported,1473.32,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2020-2021,2020,March,7,Molasses,,molasses,PHP/MT,"12,237.55",reported,12237.55,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2020-2021,2020,April,8,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,429.41",reported,1429.41,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2020-2021,2020,April,8,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,415.73",reported,1415.73,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2020-2021,2020,April,8,Composite Price,,raw_sugar,PHP/LKg,"1,416.41",reported,1416.41,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2020-2021,2020,April,8,Molasses,,molasses,PHP/MT,"11,267.41",reported,11267.41,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2020-2021,2020,May,9,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,490.54",reported,1490.54,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2020-2021,2020,May,9,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,573.78",reported,1573.78,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2020-2021,2020,May,9,Composite Price,,raw_sugar,PHP/LKg,"1,569.62",reported,1569.62,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2020-2021,2020,May,9,Molasses,,molasses,PHP/MT,"9,763.07",reported,9763.07,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2020-2021,2020,June,10,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,194.17",reported,1194.17,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2020-2021,2020,June,10,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,479.95",reported,1479.95,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2020-2021,2020,June,10,Composite Price,,raw_sugar,PHP/LKg,"1,465.66",reported,1465.66,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2020-2021,2020,June,10,Molasses,,molasses,PHP/MT,"11,659.38",reported,11659.38,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2020-2021,2020,July,11,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,116.67",reported,1116.67,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2020-2021,2020,July,11,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,413.33",reported,1413.33,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2020-2021,2020,July,11,Composite Price,,raw_sugar,PHP/LKg,"1,398.50",reported,1398.5,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2020-2021,2020,July,11,Molasses,,molasses,PHP/MT,"12,318.33",reported,12318.33,True,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2020-2021,2020,August,12,"""A"" Export","""A""",raw_sugar,PHP/LKg,Milling Operations Terminated,terminated,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2020-2021,2020,August,12,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2020-2021,2020,August,12,Composite Price,,raw_sugar,PHP/LKg,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2020-2021,2020,August,12,Molasses,,molasses,PHP/MT,,missing,,False,2015-2020,data\extracted\millsite_prices\2015-2020\table_01_lattice.csv
+2021-2022,2021,September,1,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2021-2022,2021,September,1,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,597.37",reported,1597.37,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2021-2022,2021,September,1,Composite Price,,raw_sugar,PHP/LKg,"1,597.37",reported,1597.37,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2021-2022,2021,September,1,Molasses,,molasses,PHP/MT,"10,037.69",reported,10037.69,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2021-2022,2021,October,2,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2021-2022,2021,October,2,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,708.81",reported,1708.81,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2021-2022,2021,October,2,Composite Price,,raw_sugar,PHP/LKg,"1,708.81",reported,1708.81,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2021-2022,2021,October,2,Molasses,,molasses,PHP/MT,"10,385.11",reported,10385.11,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2021-2022,2021,November,3,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2021-2022,2021,November,3,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,680.67",reported,1680.67,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2021-2022,2021,November,3,Composite Price,,raw_sugar,PHP/LKg,"1,680.67",reported,1680.67,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2021-2022,2021,November,3,Molasses,,molasses,PHP/MT,"10,716.26",reported,10716.26,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2021-2022,2021,December,4,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2021-2022,2021,December,4,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,735.39",reported,1735.39,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2021-2022,2021,December,4,Composite Price,,raw_sugar,PHP/LKg,"1,735.39",reported,1735.39,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2021-2022,2021,December,4,Molasses,,molasses,PHP/MT,"10,617.27",reported,10617.27,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2021-2022,2021,January,5,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,269.79",reported,1269.79,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2021-2022,2021,January,5,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,507.10",reported,1507.1,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2021-2022,2021,January,5,Composite Price,,raw_sugar,PHP/LKg,"1,490.48",reported,1490.48,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2021-2022,2021,January,5,Molasses,,molasses,PHP/MT,"8,977.99",reported,8977.99,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2021-2022,2021,February,6,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,256.83",reported,1256.83,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2021-2022,2021,February,6,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,522.05",reported,1522.05,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2021-2022,2021,February,6,Composite Price,,raw_sugar,PHP/LKg,"1,503.48",reported,1503.48,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2021-2022,2021,February,6,Molasses,,molasses,PHP/MT,"9,130.65",reported,9130.65,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2021-2022,2021,March,7,"""A"" Export","""A""",raw_sugar,PHP/LKg,"1,289.59",reported,1289.59,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2021-2022,2021,March,7,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,608.23",reported,1608.23,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2021-2022,2021,March,7,Composite Price,,raw_sugar,PHP/LKg,"1,585.93",reported,1585.93,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2021-2022,2021,March,7,Molasses,,molasses,PHP/MT,"8,908.76",reported,8908.76,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2021-2022,2021,April,8,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2021-2022,2021,April,8,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,658.61",reported,1658.61,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2021-2022,2021,April,8,Composite Price,,raw_sugar,PHP/LKg,"1,658.61",reported,1658.61,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2021-2022,2021,April,8,Molasses,,molasses,PHP/MT,"8,938.87",reported,8938.87,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2021-2022,2021,May,9,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2021-2022,2021,May,9,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,653.78",reported,1653.78,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2021-2022,2021,May,9,Composite Price,,raw_sugar,PHP/LKg,"1,653.78",reported,1653.78,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2021-2022,2021,May,9,Molasses,,molasses,PHP/MT,"8,841.09",reported,8841.09,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2021-2022,2021,June,10,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2021-2022,2021,June,10,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,603.56",reported,1603.56,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2021-2022,2021,June,10,Composite Price,,raw_sugar,PHP/LKg,"1,603.56",reported,1603.56,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2021-2022,2021,June,10,Molasses,,molasses,PHP/MT,"8,702.23",reported,8702.23,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2021-2022,2021,July,11,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2021-2022,2021,July,11,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,613.33",reported,1613.33,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2021-2022,2021,July,11,Composite Price,,raw_sugar,PHP/LKg,"1,613.33",reported,1613.33,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2021-2022,2021,July,11,Molasses,,molasses,PHP/MT,"10,133.33",reported,10133.33,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2021-2022,2021,August,12,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2021-2022,2021,August,12,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,641.24",reported,1641.24,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2021-2022,2021,August,12,Composite Price,,raw_sugar,PHP/LKg,"1,641.24",reported,1641.24,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2021-2022,2021,August,12,Molasses,,molasses,PHP/MT,"9,825.00",reported,9825.0,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_05_lattice.csv
+2022-2023,2022,September,1,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2022-2023,2022,September,1,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"3,363.71",reported,3363.71,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2022-2023,2022,September,1,Composite Price,,raw_sugar,PHP/LKg,"3,363.71",reported,3363.71,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2022-2023,2022,September,1,Molasses,,molasses,PHP/MT,"13,368.39",reported,13368.39,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2022-2023,2022,October,2,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2022-2023,2022,October,2,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"3,311.77",reported,3311.77,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2022-2023,2022,October,2,Composite Price,,raw_sugar,PHP/LKg,"3,311.77",reported,3311.77,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2022-2023,2022,October,2,Molasses,,molasses,PHP/MT,"13,813.78",reported,13813.78,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2022-2023,2022,November,3,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2022-2023,2022,November,3,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"3,269.76",reported,3269.76,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2022-2023,2022,November,3,Composite Price,,raw_sugar,PHP/LKg,"3,269.76",reported,3269.76,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2022-2023,2022,November,3,Molasses,,molasses,PHP/MT,"13,746.46",reported,13746.46,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2022-2023,2022,December,4,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2022-2023,2022,December,4,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"3,058.46",reported,3058.46,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2022-2023,2022,December,4,Composite Price,,raw_sugar,PHP/LKg,"3,058.46",reported,3058.46,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2022-2023,2022,December,4,Molasses,,molasses,PHP/MT,"13,380.56",reported,13380.56,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2022-2023,2022,January,5,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2022-2023,2022,January,5,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,889.43",reported,1889.43,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2022-2023,2022,January,5,Composite Price,,raw_sugar,PHP/LKg,"1,889.43",reported,1889.43,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2022-2023,2022,January,5,Molasses,,molasses,PHP/MT,"11,197.66",reported,11197.66,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2022-2023,2022,February,6,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2022-2023,2022,February,6,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"1,816.10",reported,1816.1,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2022-2023,2022,February,6,Composite Price,,raw_sugar,PHP/LKg,"1,816.10",reported,1816.1,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2022-2023,2022,February,6,Molasses,,molasses,PHP/MT,"11,426.29",reported,11426.29,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2022-2023,2022,March,7,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2022-2023,2022,March,7,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"2,022.94",reported,2022.94,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2022-2023,2022,March,7,Composite Price,,raw_sugar,PHP/LKg,"2,022.94",reported,2022.94,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2022-2023,2022,March,7,Molasses,,molasses,PHP/MT,"11,617.55",reported,11617.55,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2022-2023,2022,April,8,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2022-2023,2022,April,8,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"2,184.18",reported,2184.18,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2022-2023,2022,April,8,Composite Price,,raw_sugar,PHP/LKg,"2,184.18",reported,2184.18,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2022-2023,2022,April,8,Molasses,,molasses,PHP/MT,"11,766.47",reported,11766.47,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2022-2023,2022,May,9,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2022-2023,2022,May,9,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"2,273.26",reported,2273.26,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2022-2023,2022,May,9,Composite Price,,raw_sugar,PHP/LKg,"2,273.26",reported,2273.26,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2022-2023,2022,May,9,Molasses,,molasses,PHP/MT,"11,414.15",reported,11414.15,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2022-2023,2022,June,10,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2022-2023,2022,June,10,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"2,348.83",reported,2348.83,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2022-2023,2022,June,10,Composite Price,,raw_sugar,PHP/LKg,"2,348.83",reported,2348.83,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2022-2023,2022,June,10,Molasses,,molasses,PHP/MT,"12,670.09",reported,12670.09,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2022-2023,2022,July,11,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2022-2023,2022,July,11,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"2,370.00",reported,2370.0,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2022-2023,2022,July,11,Composite Price,,raw_sugar,PHP/LKg,"2,370.00",reported,2370.0,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2022-2023,2022,July,11,Molasses,,molasses,PHP/MT,"12,831.50",reported,12831.5,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2022-2023,2022,August,12,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2022-2023,2022,August,12,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"2,875.47",reported,2875.47,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2022-2023,2022,August,12,Composite Price,,raw_sugar,PHP/LKg,"2,875.47",reported,2875.47,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2022-2023,2022,August,12,Molasses,,molasses,PHP/MT,"12,991.16",reported,12991.16,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_04_lattice.csv
+2023-2024,2023,September,1,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2023-2024,2023,September,1,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"2,757.71",reported,2757.71,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2023-2024,2023,September,1,Composite Price,,raw_sugar,PHP/LKg,"2,757.71",reported,2757.71,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2023-2024,2023,September,1,Molasses,,molasses,PHP/MT,"15,078.57",reported,15078.57,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2023-2024,2023,October,2,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2023-2024,2023,October,2,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"2,703.18",reported,2703.18,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2023-2024,2023,October,2,Composite Price,,raw_sugar,PHP/LKg,"2,703.18",reported,2703.18,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2023-2024,2023,October,2,Molasses,,molasses,PHP/MT,"14,941.98",reported,14941.98,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2023-2024,2023,November,3,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2023-2024,2023,November,3,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"2,615.54",reported,2615.54,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2023-2024,2023,November,3,Composite Price,,raw_sugar,PHP/LKg,"2,615.54",reported,2615.54,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2023-2024,2023,November,3,Molasses,,molasses,PHP/MT,"14,956.27",reported,14956.27,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2023-2024,2023,December,4,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2023-2024,2023,December,4,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"2,414.98",reported,2414.98,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2023-2024,2023,December,4,Composite Price,,raw_sugar,PHP/LKg,"2,414.98",reported,2414.98,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2023-2024,2023,December,4,Molasses,,molasses,PHP/MT,"15,145.21",reported,15145.21,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2023-2024,2023,January,5,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2023-2024,2023,January,5,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"3,425.27",reported,3425.27,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2023-2024,2023,January,5,Composite Price,,raw_sugar,PHP/LKg,"3,425.27",reported,3425.27,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2023-2024,2023,January,5,Molasses,,molasses,PHP/MT,"13,387.33",reported,13387.33,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2023-2024,2023,February,6,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2023-2024,2023,February,6,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"3,091.99",reported,3091.99,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2023-2024,2023,February,6,Composite Price,,raw_sugar,PHP/LKg,"3,091.99",reported,3091.99,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2023-2024,2023,February,6,Molasses,,molasses,PHP/MT,"13,328.40",reported,13328.4,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2023-2024,2023,March,7,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2023-2024,2023,March,7,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"3,100.77",reported,3100.77,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2023-2024,2023,March,7,Composite Price,,raw_sugar,PHP/LKg,"3,100.77",reported,3100.77,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2023-2024,2023,March,7,Molasses,,molasses,PHP/MT,"13,454.62",reported,13454.62,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2023-2024,2023,April,8,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2023-2024,2023,April,8,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"3,177.19",reported,3177.19,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2023-2024,2023,April,8,Composite Price,,raw_sugar,PHP/LKg,"3,177.19",reported,3177.19,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2023-2024,2023,April,8,Molasses,,molasses,PHP/MT,"14,117.12",reported,14117.12,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2023-2024,2023,May,9,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2023-2024,2023,May,9,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"3,120.01",reported,3120.01,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2023-2024,2023,May,9,Composite Price,,raw_sugar,PHP/LKg,"3,120.01",reported,3120.01,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2023-2024,2023,May,9,Molasses,,molasses,PHP/MT,"14,071.95",reported,14071.95,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2023-2024,2023,June,10,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2023-2024,2023,June,10,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"3,033.33",reported,3033.33,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2023-2024,2023,June,10,Composite Price,,raw_sugar,PHP/LKg,"3,033.33",reported,3033.33,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2023-2024,2023,June,10,Molasses,,molasses,PHP/MT,"15,364.58",reported,15364.58,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2023-2024,2023,July,11,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2023-2024,2023,July,11,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"3,000.00",reported,3000.0,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2023-2024,2023,July,11,Composite Price,,raw_sugar,PHP/LKg,"3,000.00",reported,3000.0,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2023-2024,2023,July,11,Molasses,,molasses,PHP/MT,"15,450.00",reported,15450.0,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2023-2024,2023,August,12,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2023-2024,2023,August,12,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,Terminated,terminated,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2023-2024,2023,August,12,Composite Price,,raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2023-2024,2023,August,12,Molasses,,molasses,PHP/MT,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_03_lattice.csv
+2024-2025,2024,September,1,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2024-2025,2024,September,1,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"2,756.44",reported,2756.44,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2024-2025,2024,September,1,Composite Price,,raw_sugar,PHP/LKg,"2,756.44",reported,2756.44,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2024-2025,2024,September,1,Molasses,,molasses,PHP/MT,"18,449.50",reported,18449.5,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2024-2025,2024,October,2,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2024-2025,2024,October,2,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"2,801.25",reported,2801.25,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2024-2025,2024,October,2,Composite Price,,raw_sugar,PHP/LKg,"2,801.25",reported,2801.25,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2024-2025,2024,October,2,Molasses,,molasses,PHP/MT,"18,346.59",reported,18346.59,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2024-2025,2024,November,3,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2024-2025,2024,November,3,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"2,653.33",reported,2653.33,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2024-2025,2024,November,3,Composite Price,,raw_sugar,PHP/LKg,"2,653.33",reported,2653.33,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2024-2025,2024,November,3,Molasses,,molasses,PHP/MT,"17,345.44",reported,17345.44,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2024-2025,2024,December,4,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2024-2025,2024,December,4,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"2,486.63",reported,2486.63,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2024-2025,2024,December,4,Composite Price,,raw_sugar,PHP/LKg,"2,486.63",reported,2486.63,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2024-2025,2024,December,4,Molasses,,molasses,PHP/MT,"16,274.12",reported,16274.12,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2024-2025,2024,January,5,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2024-2025,2024,January,5,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"2,405.23",reported,2405.23,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2024-2025,2024,January,5,Composite Price,,raw_sugar,PHP/LKg,"2,405.23",reported,2405.23,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2024-2025,2024,January,5,Molasses,,molasses,PHP/MT,"15,473.22",reported,15473.22,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2024-2025,2024,February,6,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2024-2025,2024,February,6,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"2,546.43",reported,2546.43,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2024-2025,2024,February,6,Composite Price,,raw_sugar,PHP/LKg,"2,546.43",reported,2546.43,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2024-2025,2024,February,6,Molasses,,molasses,PHP/MT,"15,821.89",reported,15821.89,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2024-2025,2024,March,7,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2024-2025,2024,March,7,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"2,753.42",reported,2753.42,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2024-2025,2024,March,7,Composite Price,,raw_sugar,PHP/LKg,"2,753.42",reported,2753.42,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2024-2025,2024,March,7,Molasses,,molasses,PHP/MT,"16,034.60",reported,16034.6,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2024-2025,2024,April,8,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2024-2025,2024,April,8,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"2,560.14",reported,2560.14,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2024-2025,2024,April,8,Composite Price,,raw_sugar,PHP/LKg,"2,560.14",reported,2560.14,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2024-2025,2024,April,8,Molasses,,molasses,PHP/MT,"16,678.97",reported,16678.97,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2024-2025,2024,May,9,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2024-2025,2024,May,9,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"2,444.22",reported,2444.22,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2024-2025,2024,May,9,Composite Price,,raw_sugar,PHP/LKg,"2,444.22",reported,2444.22,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2024-2025,2024,May,9,Molasses,,molasses,PHP/MT,"17,172.71",reported,17172.71,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2024-2025,2024,June,10,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2024-2025,2024,June,10,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,Terminated,terminated,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2024-2025,2024,June,10,Composite Price,,raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2024-2025,2024,June,10,Molasses,,molasses,PHP/MT,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2024-2025,2024,July,11,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2024-2025,2024,July,11,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,Terminated,terminated,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2024-2025,2024,July,11,Composite Price,,raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2024-2025,2024,July,11,Molasses,,molasses,PHP/MT,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2024-2025,2024,August,12,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2024-2025,2024,August,12,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,Terminated,terminated,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2024-2025,2024,August,12,Composite Price,,raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2024-2025,2024,August,12,Molasses,,molasses,PHP/MT,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_02_lattice.csv
+2025-2026,2025,January,5,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2025-2026,2025,January,5,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"2,753.82",reported,2753.82,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2025-2026,2025,January,5,Composite Price,,raw_sugar,PHP/LKg,"2,753.82",reported,2753.82,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2025-2026,2025,January,5,Molasses,,molasses,PHP/MT,"14,849.36",reported,14849.36,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2025-2026,2025,February,6,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2025-2026,2025,February,6,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"2,910.05",reported,2910.05,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2025-2026,2025,February,6,Composite Price,,raw_sugar,PHP/LKg,"2,910.05",reported,2910.05,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2025-2026,2025,February,6,Molasses,,molasses,PHP/MT,"11,968.37",reported,11968.37,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2025-2026,2025,March,7,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2025-2026,2025,March,7,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"2,760.37",reported,2760.37,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2025-2026,2025,March,7,Composite Price,,raw_sugar,PHP/LKg,"2,760.37",reported,2760.37,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2025-2026,2025,March,7,Molasses,,molasses,PHP/MT,"11,110.08",reported,11110.08,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2025-2026,2025,April,8,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2025-2026,2025,April,8,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"2,626.54",reported,2626.54,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2025-2026,2025,April,8,Composite Price,,raw_sugar,PHP/LKg,"2,626.54",reported,2626.54,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2025-2026,2025,April,8,Molasses,,molasses,PHP/MT,"10,289.62",reported,10289.62,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2025-2026,2025,May,9,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2025-2026,2025,May,9,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"2,709.29",reported,2709.29,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2025-2026,2025,May,9,Composite Price,,raw_sugar,PHP/LKg,"2,709.29",reported,2709.29,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2025-2026,2025,May,9,Molasses,,molasses,PHP/MT,"10,984.03",reported,10984.03,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2025-2026,2025,June,10,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2025-2026,2025,June,10,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"2,680.98",reported,2680.98,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2025-2026,2025,June,10,Composite Price,,raw_sugar,PHP/LKg,"2,680.98",reported,2680.98,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2025-2026,2025,June,10,Molasses,,molasses,PHP/MT,"14,854.71",reported,14854.71,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2025-2026,2025,July,11,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2025-2026,2025,July,11,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"2,550.00",reported,2550.0,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2025-2026,2025,July,11,Composite Price,,raw_sugar,PHP/LKg,"2,550.00",reported,2550.0,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2025-2026,2025,July,11,Molasses,,molasses,PHP/MT,"12,862.50",reported,12862.5,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2025-2026,2025,August,12,"""A"" Export","""A""",raw_sugar,PHP/LKg,,missing,,False,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2025-2026,2025,August,12,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,"2,462.50",reported,2462.5,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2025-2026,2025,August,12,Composite Price,,raw_sugar,PHP/LKg,"2,462.50",reported,2462.5,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv
+2025-2026,2025,August,12,Molasses,,molasses,PHP/MT,"12,000.00",reported,12000.0,True,2020-2025,data\extracted\millsite_prices\2020-2025\table_01_lattice.csv

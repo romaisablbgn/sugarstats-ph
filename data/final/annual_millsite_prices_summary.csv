@@ -1,0 +1,68 @@
+crop_year,crop_year_start,price_type,sugar_class,product_type,unit,average_price,months_count
+2010-2011,2010,"""A"" Export","""A""",raw_sugar,PHP/LKg,1449.5075,4
+2010-2011,2010,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,1899.77,12
+2010-2011,2010,Composite Price,,raw_sugar,PHP/LKg,2310.995,4
+2010-2011,2010,Molasses,,molasses,PHP/MT,8631.205,4
+2011-2012,2011,"""A"" Export","""A""",raw_sugar,PHP/LKg,1328.2541666666666,12
+2011-2012,2011,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,1419.39,12
+2011-2012,2011,"""D"" World Market","""D""",raw_sugar,PHP/LKg,1136.45,4
+2011-2012,2011,Composite Price,,raw_sugar,PHP/LKg,1505.2858333333334,12
+2011-2012,2011,Molasses,,molasses,PHP/MT,3831.2016666666664,12
+2012-2013,2012,"""A"" Export","""A""",raw_sugar,PHP/LKg,1097.6891666666668,12
+2012-2013,2012,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,1395.27,12
+2012-2013,2012,"""D"" World Market","""D""",raw_sugar,PHP/LKg,1033.615,12
+2012-2013,2012,Composite Price,,raw_sugar,PHP/LKg,1363.0325,12
+2012-2013,2012,Molasses,,molasses,PHP/MT,5315.4375,12
+2013-2014,2013,"""A"" Export","""A""",raw_sugar,PHP/LKg,709.9466666666667,12
+2013-2014,2013,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,1536.05,12
+2013-2014,2013,"""D"" World Market","""D""",raw_sugar,PHP/LKg,751.3041666666667,12
+2013-2014,2013,Composite Price,,raw_sugar,PHP/LKg,1303.8591666666666,12
+2013-2014,2013,Molasses,,molasses,PHP/MT,5949.2266666666665,12
+2014-2015,2014,"""A"" Export","""A""",raw_sugar,PHP/LKg,866.0433333333334,12
+2014-2015,2014,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,1566.61,12
+2014-2015,2014,"""D"" World Market","""D""",raw_sugar,PHP/LKg,800.07875,8
+2014-2015,2014,Composite Price,,raw_sugar,PHP/LKg,1505.5658333333333,12
+2014-2015,2014,Molasses,,molasses,PHP/MT,6204.82,10
+2015-2016,2015,"""A"" Export","""A""",raw_sugar,PHP/LKg,853.5899999999999,5
+2015-2016,2015,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,1774.28,12
+2015-2016,2015,"""D"" World Market","""D""",raw_sugar,PHP/LKg,804.0366666666665,3
+2015-2016,2015,Composite Price,,raw_sugar,PHP/LKg,1634.4279999999999,10
+2015-2016,2015,Molasses,,molasses,PHP/MT,7926.4580000000005,10
+2016-2017,2016,"""A"" Export","""A""",raw_sugar,PHP/LKg,1138.1575,4
+2016-2017,2016,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,1503.28,12
+2016-2017,2016,Composite Price,,raw_sugar,PHP/LKg,1735.875,12
+2016-2017,2016,Molasses,,molasses,PHP/MT,9219.996666666666,12
+2017-2018,2017,"""A"" Export","""A""",raw_sugar,PHP/LKg,1222.2072727272728,11
+2017-2018,2017,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,1541.49,12
+2017-2018,2017,"""D"" World Market","""D""",raw_sugar,PHP/LKg,745.4611111111111,9
+2017-2018,2017,Composite Price,,raw_sugar,PHP/LKg,1287.611818181818,11
+2017-2018,2017,Molasses,,molasses,PHP/MT,6777.19,11
+2018-2019,2018,"""A"" Export","""A""",raw_sugar,PHP/LKg,1166.41,8
+2018-2019,2018,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,1549.06,12
+2018-2019,2018,"""D"" World Market","""D""",raw_sugar,PHP/LKg,635.755,4
+2018-2019,2018,Composite Price,,raw_sugar,PHP/LKg,1519.035,8
+2018-2019,2018,Molasses,,molasses,PHP/MT,6989.2225,8
+2019-2020,2019,"""A"" Export","""A""",raw_sugar,PHP/LKg,1186.0369999999998,10
+2019-2020,2019,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,1493.8,12
+2019-2020,2019,Composite Price,,raw_sugar,PHP/LKg,1492.451,10
+2019-2020,2019,Molasses,,molasses,PHP/MT,10730.356,10
+2020-2021,2020,"""A"" Export","""A""",raw_sugar,PHP/LKg,1319.8554545454544,11
+2020-2021,2020,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,1550.22,12
+2020-2021,2020,Composite Price,,raw_sugar,PHP/LKg,1482.9345454545455,11
+2020-2021,2020,Molasses,,molasses,PHP/MT,10716.035454545454,11
+2021-2022,2021,"""A"" Export","""A""",raw_sugar,PHP/LKg,1272.07,3
+2021-2022,2021,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,2041.87,12
+2021-2022,2021,Composite Price,,raw_sugar,PHP/LKg,1622.7208333333335,12
+2021-2022,2021,Molasses,,molasses,PHP/MT,9601.1875,12
+2022-2023,2022,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,3177.48,12
+2022-2023,2022,Composite Price,,raw_sugar,PHP/LKg,2565.3258333333333,12
+2022-2023,2022,Molasses,,molasses,PHP/MT,12518.671666666667,12
+2023-2024,2023,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,2577.87,12
+2023-2024,2023,Composite Price,,raw_sugar,PHP/LKg,2949.088181818182,11
+2023-2024,2023,Molasses,,molasses,PHP/MT,14481.457272727273,11
+2024-2025,2024,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,2679.27,12
+2024-2025,2024,Composite Price,,raw_sugar,PHP/LKg,2600.7877777777776,9
+2024-2025,2024,Molasses,,molasses,PHP/MT,16844.115555555556,9
+2025-2026,2025,"""B"" Domestic","""B""",raw_sugar,PHP/LKg,2681.69375,8
+2025-2026,2025,Composite Price,,raw_sugar,PHP/LKg,2681.69375,8
+2025-2026,2025,Molasses,,molasses,PHP/MT,12364.83375,8

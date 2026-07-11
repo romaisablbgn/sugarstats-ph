@@ -1,0 +1,4 @@
+source_period,source_file,raw_row,reason
+2010-2015,data\extracted\raw_production\2010-2015\table_01_lattice.csv,"MONTH | CROP YEAR2014-2015 | CROP YEAR2013-2014 | CROP YEAR2012-2013 | CROP YEAR2011-2012 | CROP YEAR2010-2011 | 2010-2015 | data\extracted\raw_production\2010-2015\table_01_lattice.csv",not_month_or_annual_indicator
+2015-2020,data\extracted\raw_production\2015-2020\table_01_lattice.csv,"MONTH | CROP YEAR2019-2020 | CROP YEAR2018-2019 | CROP YEAR2017-2018 | CROP YEAR2016-2017 | CROP YEAR2015-2016 | 2015-2020 | data\extracted\raw_production\2015-2020\table_01_lattice.csv",not_month_or_annual_indicator
+2020-2025,data\extracted\raw_production\2020-2025\table_01_lattice.csv,"MONTH | CROP YEAR2024-2025 | CROP YEAR2023-2024 | CROP YEAR2022-2023 | CROP YEAR2021-2022 | CROP YEAR2020-2021 | 2020-2025 | data\extracted\raw_production\2020-2025\table_01_lattice.csv",not_month_or_annual_indicator
