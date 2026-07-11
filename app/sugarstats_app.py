@@ -17,19 +17,42 @@ def _():
 
 
 @app.cell
-def _(Path, pd):
-    DATA_DIR = Path("data/final")
+def _(Path, mo, pd):
+    import sys
+
+    if sys.platform == "emscripten":
+        DATA_DIR = mo.notebook_location() / "public" / "data" / "final"
+    else:
+        DATA_DIR = Path("data/final")
+
     SOURCE_URL = "https://sra.gov.ph/historicalStatistics/index"
     PROJECT_URL = "https://romaisablbgn.github.io/sugarstats-ph"
 
-    monthly_supply = pd.read_csv(DATA_DIR / "monthly_production_withdrawals_long.csv")
-    annual_supply = pd.read_csv(DATA_DIR / "annual_production_withdrawals_summary.csv")
-    annual_overview = pd.read_csv(DATA_DIR / "annual_overview_supply_area_yield.csv")
-    annual_area_yield = pd.read_csv(DATA_DIR / "annual_raw_production_area_yield_wide.csv")
-    annual_millsite = pd.read_csv(DATA_DIR / "annual_millsite_prices_summary.csv")
-    annual_metro = pd.read_csv(DATA_DIR / "annual_metro_manila_prices_summary.csv")
-    millsite_prices = pd.read_csv(DATA_DIR / "monthly_millsite_prices_analysis.csv")
-    metro_prices = pd.read_csv(DATA_DIR / "monthly_metro_manila_prices.csv")
+    monthly_supply = pd.read_csv(
+        str(DATA_DIR / "monthly_production_withdrawals_long.csv")
+    )
+    annual_supply = pd.read_csv(
+        str(DATA_DIR / "annual_production_withdrawals_summary.csv")
+    )
+    annual_overview = pd.read_csv(
+        str(DATA_DIR / "annual_overview_supply_area_yield.csv")
+    )
+    annual_area_yield = pd.read_csv(
+        str(DATA_DIR / "annual_raw_production_area_yield_wide.csv")
+    )
+    annual_millsite = pd.read_csv(
+        str(DATA_DIR / "annual_millsite_prices_summary.csv")
+    )
+    annual_metro = pd.read_csv(
+        str(DATA_DIR / "annual_metro_manila_prices_summary.csv")
+    )
+    millsite_prices = pd.read_csv(
+        str(DATA_DIR / "monthly_millsite_prices_analysis.csv")
+    )
+    metro_prices = pd.read_csv(
+        str(DATA_DIR / "monthly_metro_manila_prices.csv")
+    )
+
     return (
         PROJECT_URL,
         SOURCE_URL,
