@@ -8,19 +8,19 @@ This app allows users to explore trends in:
 * Sugar withdrawals
 * Millsite and Wholesale market prices
 
-**[View SugarStatsPH Web App](https://romaisablbgn.github.io/sugarstats-ph/)**: https://romaisablbgn.github.io/sugarstats-ph
+**View SugarStatsPH Web App**: https://romaisablbgn.github.io/sugarstats-ph
 
-**[View source data](https://www.sra.gov.ph/historicalStatistics/index)**: https://www.sra.gov.ph/historicalStatistics/index
+**View source data**: https://www.sra.gov.ph/historicalStatistics/index
 
 > SugarStatsPH is an independent data visualization project and is not an official publication of the Sugar Regulatory Administration.
 
 ## Preview
 
-![SugarStatsPH web app preview](docs\images\sugarstats-ph_preview.png)
+![SugarStatsPH web app preview](docs/images/sugarstats-ph_preview.png)
 
 ### Sample Downloadable PDF Report
 
-![Sample PDF report](docs\images\sugarstatsph_2024-2025_sample_dashboard_report.png)
+![Sample PDF report](docs/images/sugarstatsph_2024-2025_sample_dashboard_report.png)
 
 ## Purpose
 
@@ -36,21 +36,21 @@ SugarStatsPH is designed to help Philippine sugar industry stakeholders and the 
 
 1. **Review the annual overview.**  
    The overview table provides an at-a-glance comparison of annual raw and refined sugar production, annual raw and refined sugar withdrawals, average millsite prices, and average wholesale market prices. Scroll through the table to review figures from different crop years.
-   ![SugarStatsPH Annual Overview Preview](docs\images\sugarstats-ph_annual_overview.jpeg)
+   ![SugarStatsPH Annual Overview Preview](docs/images/sugarstats-ph_annual_overview.jpeg)
 
 2. **Select a crop year and review the summary cards.**  
    Choose a crop year from the dropdown menu. The summary cards automatically update to display the selected crop year's total harvested area, yield per hectare, annual raw sugar production, annual refined sugar production, and Average "B" sugar millsite price.
-    ![SugarStatsPH Summary Cards Preview](docs\images\sugarstats-ph_summary_cards_preview.png)
+    ![SugarStatsPH Summary Cards Preview](docs/images/sugarstats-ph_summary_cards_preview.png)
 
 3. **Generate a customized report.**  
    Select the production, withdrawal, millsite price, and wholesale market price series you want to examine. You may select all available series or only a few to create a more focused report.
 
-   By default, the charts will display the following data:![Generate a report available series selector](docs\images\sugarstats-ph_generate_report_selector.png)
+   By default, the charts will display the following data:![Generate a report available series selector](docs/images/sugarstats-ph_generate_report_selector.png)
 
 4. **Explore the monthly charts.**  
    The dashboard generates two charts based on the selected crop year and data series:
    
-   ![SugarStatsPH Monthly Charts Preview](docs\images\sugarstats-ph_monthly_charts_preview.png)
+   ![SugarStatsPH Monthly Charts Preview](docs/images/sugarstats-ph_monthly_charts_preview.png)
 
    - **Monthly Production and Withdrawals Chart:** The chart on the left compares monthly sugar production and withdrawals, providing a view of supply and demand movements throughout the crop year.
    - **Monthly Price Index Chart:** The chart on the right compares the selected millsite and wholesale market price series.
@@ -114,9 +114,9 @@ Users should consider the following limitations when interpreting the data from 
 
    The analysis does not account for the effects of molasses and bioethanol production on sugarcane allocation, production volumes, or market conditions.
 
-6. **Geographic coverage of retail prices**
+6. **Geographic coverage of market prices**
 
-   Average retail sugar prices are based on the available monthly average prices for raw and refined sugar in Metro Manila. These figures may not represent prices in other regions of the Philippines.
+   Average wholesale sugar prices are based on the available monthly average prices for raw and refined sugar in Metro Manila. These figures may not represent prices in other regions of the Philippines.
 
 7. **Interpretation of supply conditions**
 
